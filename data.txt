@@ -1,0 +1,3 @@
+Levram|Geografi|2|100|42
+Tes|MTK|1|100|73
+Tes67|MTK|3|70|5
