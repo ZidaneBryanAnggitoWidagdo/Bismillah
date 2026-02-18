@@ -19,6 +19,7 @@ serta manajemen file menggunakan Python.
 - Penyimpanan data ke file
 - Validasi input pengguna
 - Ringkasan hasil setelah kuis selesai
+- Penghitung waktu penyelesaian kuis
 
 ---
 
